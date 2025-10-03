@@ -1,5 +1,5 @@
 {
-	"name": FreeCDN",
+	"name": "FreeCDN",
 	"version": "1.3.0",
 	"license": "OSL-3.0",
 	"description": "My fork of GitHub jsDelivr CDN Generator",
